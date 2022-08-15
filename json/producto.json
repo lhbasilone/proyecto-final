@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "nombre":"Resina pequeña",
+        "cantidad":"1 litro",
+        "precio":200,
+        "imagen":"../imagenes/resinachica.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Resina normal",
+        "cantidad":"3 litros",
+        "precio":600,
+        "imagen":"../imagenes/a.jpg"
+    },
+    {
+        "id":3,
+        "nombre":"Resina grande",
+        "cantidad":"10 litro",
+        "precio":900,
+        "imagen":"../imagenes/gr.jpg"
+    },
+    {
+        "id":4,
+        "nombre":"Tinte a eleccion",
+        "cantidad":"1 litro",
+        "precio":200,
+        "imagen":"../imagenes/ñ.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Tinte a eleccion",
+        "cantidad":"1 litro",
+        "precio":500,
+        "imagen":"../imagenes/l.jpg"
+    }
+]
